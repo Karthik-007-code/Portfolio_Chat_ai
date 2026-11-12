@@ -1,0 +1,12 @@
+{
+  "certifications": [],
+  "note": "No certifications listed yet. Add entries here as you earn them. Example format below.",
+  "example_format": {
+    "name": "Certificate Name",
+    "issuer": "Organization (e.g., Coursera, Google, AWS)",
+    "date": "Month Year",
+    "url": "https://link-to-certificate",
+    "skills_covered": ["Skill 1", "Skill 2"]
+  }
+}
+

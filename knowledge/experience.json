@@ -1,0 +1,32 @@
+{
+  "experience": [
+    {
+      "title": "Software Engineering Intern",
+      "company": "ThoughtWorks",
+      "program": "ThoughtWorks PATH Apprenticeship Program",
+      "type": "Internship",
+      "duration": "6 months",
+      "period": "Final semester of Diploma (2025–2026)",
+      "location": "Hyderabad, India",
+      "status": "Completed",
+      "summary": "Participated in the ThoughtWorks PATH apprenticeship program, which included inaugural classroom training sessions in Hyderabad combined with hands-on software engineering work.",
+      "responsibilities": [
+        "Focused on full-stack development using the MERN stack",
+        "Built web applications using MongoDB, Express.js, React, and Node.js",
+        "Developed strong fundamentals in collaborative software engineering practices",
+        "Practiced modular backend design and responsive frontend development",
+        "Engaged in Agile team workflows and professional engineering culture"
+      ],
+      "technologies": [
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js",
+        "JavaScript",
+        "Git",
+        "GitHub"
+      ]
+    }
+  ]
+}
+

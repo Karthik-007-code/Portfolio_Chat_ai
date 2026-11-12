@@ -1,0 +1,54 @@
+{
+  "programming_languages": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "SQL"
+  ],
+  "frameworks_and_libraries": [
+    "FastAPI",
+    "React",
+    "Node.js",
+    "Express.js",
+    "Pandas",
+    "NumPy"
+  ],
+  "ai_and_ml": [
+    "Machine Learning",
+    "AI Engineering",
+    "LLM Integration",
+    "Agentic AI Workflows",
+    "Prompt Engineering"
+  ],
+  "backend": [
+    "REST API Design",
+    "WebSockets",
+    "FastAPI",
+    "SQLite",
+    "MongoDB"
+  ],
+  "frontend": [
+    "React",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "tools_and_platforms": [
+    "Git",
+    "GitHub",
+    "uv",
+    "Docker",
+    "Web Scraping (httpx, BeautifulSoup)"
+  ],
+  "practices": [
+    "Modular Backend Design",
+    "Collaborative Software Engineering",
+    "Agile Development",
+    "MERN Stack Development",
+    "Data Pipeline Construction"
+  ]
+}
+

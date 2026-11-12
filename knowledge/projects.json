@@ -1,0 +1,116 @@
+{
+  "projects": [
+    {
+      "name": "Ask Karthik – Personal AI Assistant",
+      "description": "A personal AI chatbot integrated into a React portfolio website. Visitors can ask questions about Karthik's background, skills, and projects. Built with FastAPI, WebSockets, and an OpenAI-compatible LLM (Groq). Uses structured JSON knowledge files for context injection.",
+      "status": "In Progress",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "WebSockets",
+        "Groq API",
+        "React",
+        "Pydantic",
+        "uv",
+        "httpx",
+        "BeautifulSoup4"
+      ],
+      "url": "https://github.com/Karthik-007-code/Portfolio_Chat_ai",
+      "highlights": [
+        "Real-time streaming responses over WebSockets",
+        "In-memory session management (no database required)",
+        "Hybrid knowledge: hand-maintained JSON + public data ingestion",
+        "Security-first design: origin validation, rate limiting, input validation"
+      ]
+    },
+    {
+      "name": "Dlight – Flight Tracking Backend",
+      "description": "A Python backend application for viewing and tracking flight information.",
+      "status": "Completed",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/Karthik-007-code/Dlight-Backend-",
+      "highlights": []
+    },
+    {
+      "name": "FastAPI Practice",
+      "description": "Hands-on practice project for learning FastAPI — building REST APIs, routing, and request handling.",
+      "status": "Completed",
+      "technologies": [
+        "Python",
+        "FastAPI"
+      ],
+      "url": "https://github.com/Karthik-007-code/Fast-Api_practise",
+      "highlights": []
+    },
+    {
+      "name": "CRUD with SQLite",
+      "description": "A CRUD application using Python and SQLite, covering database design and query operations.",
+      "status": "Completed",
+      "technologies": [
+        "Python",
+        "SQLite",
+        "SQL"
+      ],
+      "url": "https://github.com/Karthik-007-code/CRUD-SQL_LITE",
+      "highlights": []
+    },
+    {
+      "name": "F1 Web Scraper",
+      "description": "A web scraping project that extracts Formula 1 data from public websites.",
+      "status": "Completed",
+      "technologies": [
+        "Python",
+        "Web Scraping"
+      ],
+      "url": "https://github.com/Karthik-007-code/f1-webscraping",
+      "highlights": []
+    },
+    {
+      "name": "Expense Tracker",
+      "description": "A Python-based expense tracking application to manage and monitor personal finances.",
+      "status": "Completed",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/Karthik-007-code/expence_tracket",
+      "highlights": []
+    },
+    {
+      "name": "StatFlow",
+      "description": "A JavaScript-based statistics dashboard.",
+      "status": "Completed",
+      "technologies": [
+        "JavaScript",
+        "CSS"
+      ],
+      "url": "https://github.com/Karthik-007-code/StatFlow",
+      "highlights": []
+    },
+    {
+      "name": "Text to Handwriting Converter",
+      "description": "A web tool that converts typed text into handwriting-style output — useful for submitting written assignments digitally.",
+      "status": "Completed",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "url": "https://github.com/Karthik-007-code/text-to-handwriting",
+      "highlights": []
+    },
+    {
+      "name": "QR Code Generator",
+      "description": "A browser-based tool for generating QR codes from input text or URLs.",
+      "status": "Completed",
+      "technologies": [
+        "HTML",
+        "JavaScript"
+      ],
+      "url": "https://github.com/Karthik-007-code/QR-generator",
+      "highlights": []
+    }
+  ]
+}
+

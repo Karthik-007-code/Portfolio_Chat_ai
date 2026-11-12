@@ -1,0 +1,108 @@
+{
+  "source": "github_api",
+  "username": "Karthik-007-code",
+  "profile": {
+    "login": "Karthik-007-code",
+    "name": "karthik",
+    "bio": null,
+    "location": null,
+    "blog": "",
+    "html_url": "https://github.com/Karthik-007-code",
+    "public_repos": 10,
+    "followers": 0,
+    "following": 0,
+    "created_at": "2024-11-10T08:46:54Z"
+  },
+  "repositories": [
+    {
+      "name": "Portfolio_Chat_ai",
+      "description": "",
+      "language": "",
+      "topics": [],
+      "html_url": "https://github.com/Karthik-007-code/Portfolio_Chat_ai",
+      "homepage": "",
+      "stars": 0,
+      "updated_at": "2026-11-11T14:10:20Z"
+    },
+    {
+      "name": "karthik-007-code",
+      "description": "",
+      "language": "CSS",
+      "topics": [],
+      "html_url": "https://github.com/Karthik-007-code/karthik-007-code",
+      "homepage": "",
+      "stars": 0,
+      "updated_at": "2026-11-10T14:56:29Z"
+    },
+    {
+      "name": "QR-generator",
+      "description": "",
+      "language": "HTML",
+      "topics": [],
+      "html_url": "https://github.com/Karthik-007-code/QR-generator",
+      "homepage": "",
+      "stars": 0,
+      "updated_at": "2026-10-05T09:51:48Z"
+    },
+    {
+      "name": "Dlight-Backend-",
+      "description": "This is an application used to see the  flights ",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/Karthik-007-code/Dlight-Backend-",
+      "homepage": "",
+      "stars": 0,
+      "updated_at": "2026-09-20T05:50:45Z"
+    },
+    {
+      "name": "Fast-Api_practise",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/Karthik-007-code/Fast-Api_practise",
+      "homepage": "",
+      "stars": 0,
+      "updated_at": "2026-09-06T14:30:38Z"
+    },
+    {
+      "name": "CRUD-SQL_LITE",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/Karthik-007-code/CRUD-SQL_LITE",
+      "homepage": "",
+      "stars": 0,
+      "updated_at": "2026-09-02T14:53:56Z"
+    },
+    {
+      "name": "f1-webscraping",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/Karthik-007-code/f1-webscraping",
+      "homepage": "",
+      "stars": 0,
+      "updated_at": "2026-09-01T11:47:49Z"
+    },
+    {
+      "name": "expence_tracket",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/Karthik-007-code/expence_tracket",
+      "homepage": "",
+      "stars": 0,
+      "updated_at": "2026-08-14T17:15:45Z"
+    },
+    {
+      "name": "StatFlow",
+      "description": "",
+      "language": "JavaScript",
+      "topics": [],
+      "html_url": "https://github.com/Karthik-007-code/StatFlow",
+      "homepage": "",
+      "stars": 0,
+      "updated_at": "2026-05-05T17:37:50Z"
+    }
+  ]
+}
